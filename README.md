@@ -7,4 +7,4 @@ This webpage is the simplest one written online based on CodePen. Initially, my 
 The online webpage eliminates the hassle of finding an editor. Moreover, using DeepSeek can conveniently solve programming syntax problems. If you have any questions, please send an email to communicate with me at 853669721@qq.com.
 
 The page will look like below:
-![image](https://github.com/user-attachments/assets/91dca0ef-2afb-4048-ac6b-0935b56ad8e1)
+![image](https://github.com/user-attachments/assets/e415959c-5fe6-4f24-8c42-c7b4ddf1a073)
