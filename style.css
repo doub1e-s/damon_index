@@ -1,0 +1,41 @@
+body {
+  font-family: system-ui;
+  background: #233034;
+  color: white;
+  text-align: center;
+}
+pre {
+  display: block;
+  margin: 0 auto; /* 容器水平居中 */
+  width: fit-content; /* 宽度根据内容自适应 */
+  text-align: left; /* 内部代码文本保持左对齐 */
+  padding: 1em; /* 可选：增加内边距美观 */
+  background: #2d2d2d; /* 深色背景，与图中主题一致 */
+  border-radius: 8px; /* 可选：圆角 */
+  overflow-y: auto; /* 允许纵向滚动（内容过长时） */
+  font-size: 20px; /* 清晰可读的折中值 */
+  line-height: 1.5; /* 增加行距提升可读性 */
+}
+
+/* 关键字高亮规则 */
+.keyword {
+  color: #569cd6; /* 蓝色：void, int, if, return等 */
+}
+.function {
+  color: #dcdcaa; /* 浅黄色：函数名 */
+}
+.bracket {
+  color: #d4d4d4; /* 灰色：括号 */
+}
+.number {
+  color: #b5cea8; /* 绿色：数字 */
+}
+.comment {
+  color: #6a9955; /* 绿色：注释（图中无注释，预留） */
+}
+.word {
+  color: #fb4a3e; /* 红色：人已经要去世了啊！ */
+}
+.tired {
+  color: #f7bac5; /* 粉红：亮红灯咯，警告警告 */
+}
